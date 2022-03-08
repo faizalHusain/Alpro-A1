@@ -1,5 +1,7 @@
-// Nama : Faizal Husain Adiasha
-// NIM	: 24060121140115
+// Nama File	: luasBjsk.c
+// Deskripsi	: Menghitung dan menampilkan luas bujursangkar di layar
+// Pembuat	: Faizal Husain Adiasha - 24060121140115
+// Tgl Pembuatan: 6 Maret 2022
 #include <stdio.h>
 #include <stdlib.h>
 
