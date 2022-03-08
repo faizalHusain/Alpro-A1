@@ -1,7 +1,7 @@
 // Nama File	: luasBjsk.c
 // Deskripsi	: Menghitung dan menampilkan luas bujursangkar di layar
 // Pembuat	: Faizal Husain Adiasha - 24060121140115
-// Tgl Pembuatan: 6 Maret 2022
+// Tgl Pembuatan: Senin, 7 Maret 2022, 20.00 WIB
 #include <stdio.h>
 #include <stdlib.h>
 
