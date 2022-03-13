@@ -1,6 +1,6 @@
 // Nama File	: CekBulan.c
 // Deskripsi	: Menampilkan nama bulan di layar sesuai angka yang di inputkan
-// Pembuat		: Faizal Husain Adiasha - 24060121140115
+// Pembuat	: Faizal Husain Adiasha - 24060121140115
 // Tgl Pembuatan: Minggu, 13 Maret 2022, 13.00 WIB
 #include <stdio.h>
 #include <stdlib.h>
