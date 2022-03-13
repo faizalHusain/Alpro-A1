@@ -1,6 +1,6 @@
 // Nama File	: CekHari.c
 // Deskripsi	: menampilkan hari sesuai inputan di layar 
-// Pembuat		: Faizal Husain Adiasha - 24060121140115
+// Pembuat	: Faizal Husain Adiasha - 24060121140115
 // Tgl Pembuatan: Minggu, 13 Maret 2022, 13.00 WIB
 #include <stdio.h>
 #include <stdlib.h>
