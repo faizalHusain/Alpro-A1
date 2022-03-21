@@ -1,6 +1,6 @@
 // Nama File	: FaktorBil.c
 // Deskripsi	: menampilkan faktor bilangan
-// Pembuat		: Faizal Husain Adiasha - 24060121140115
+// Pembuat	: Faizal Husain Adiasha - 24060121140115
 // Tgl Pembuatan: Minggu, 20 Maret 2022, 20.00 WIB
 #include <stdio.h>
 #include <stdlib.h>
